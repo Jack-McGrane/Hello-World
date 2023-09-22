@@ -1,5 +1,5 @@
 # Hello-World
-**  Project Title**
+**Project Title**
 
 # Description
 ## How to Run a Program
